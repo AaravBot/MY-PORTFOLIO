@@ -1,4 +1,4 @@
-# 🧑‍💻 Aarav Sharma — Portfolio Website
+#  Aarav Sharma — Portfolio Website
 
 Yo! This is the code for my personal portfolio built using **React.js**. It’s where I showcase my projects, skills, and a bit about who I am.
 
