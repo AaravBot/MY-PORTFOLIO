@@ -1,26 +1,29 @@
-# Aarav Sharma — Portfolio Website
+# 🧑‍💻 Aarav Sharma — Portfolio Website
 
-Yo  This is the code for my personal portfolio built using **React.js**. It’s where I showcase my projects, skills, and a bit about who I am.
+Yo! This is the code for my personal portfolio built using **React.js**. It’s where I showcase my projects, skills, and a bit about who I am.
 
-Right now, I’m still adding things — but the basics are all here.
-## Features
+> 🚧 Still a work in progress — more updates coming soon.
 
-- Simple and clean UI
-- Responsive design (works on mobile too)
-- Interactive background with 2D kittens 🐱
-- Sections like About, Skills, Projects, and Contact
 
-## Tech Used
+##  Features
 
-- React.js
-- JavaScript (ES6+)
-- HTML & CSS
-- Git + GitHub
+ Clean and minimal UI
+ Responsive design (mobile-friendly)
+ Interactive 2D kittens in the background 🐱 (Miaau)
+ Sections: About, Skills, Projects, and Contact
 
-## How to Run It
+##  Tech Stack
 
-If you want to try it locally:
+ **React.js**
+ **JavaScript (ES6+)**
+ **HTML5 & CSS3**
+ **Git & GitHub**
 
-1. Clone the repo:
-   ```bash
-   git clone https://github.com/AaravBot/MY-PORTFOLIO.git
+##  Getting Started
+
+Want to run it locally?
+
+### 1. Clone the repo
+```bash
+git clone https://github.com/AaravBot/MY-PORTFOLIO.git
+
