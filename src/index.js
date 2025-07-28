@@ -1,8 +1,7 @@
-import './index.css';
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import App from './App';
-import './index.css'; // Optional: if you use custom CSS alongside Tailwind
+import './index.css'; // This includes Tailwind and any global styles
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
@@ -10,3 +9,4 @@ root.render(
     <App />
   </React.StrictMode>
 );
+
