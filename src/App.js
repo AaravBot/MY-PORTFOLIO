@@ -1,3 +1,4 @@
+// src/App.js
 import React from "react";
 import KittenParticles from "./KittenParticles";
 
@@ -17,7 +18,7 @@ function App() {
         </nav>
       </header>
 
-      {/* Hero Section */}
+      {/* Hero */}
       <section className="flex flex-col items-center text-center mt-20 px-4 z-10 relative">
         <h2 className="text-4xl font-extrabold text-blue-800 mb-2">
           Electrical & Computer Science Engineer
@@ -73,4 +74,3 @@ function App() {
 }
 
 export default App;
-

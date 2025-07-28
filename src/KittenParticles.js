@@ -1,7 +1,7 @@
+// src/KittenParticles.js
 import React from "react";
 import Particles from "@tsparticles/react";
 import { loadAll } from "@tsparticles/all";
-import "./App.css";
 
 const particlesInit = async (engine) => {
   await loadAll(engine);
@@ -34,7 +34,7 @@ const KittenParticles = () => {
                 height: 100
               },
               {
-                src: "https://cdn-icons-png.flaticon.com/512/616/616408.png",
+                src: "https://cdn-icons-png.flaticon.com/512/616/616490.png",
                 width: 100,
                 height: 100
               },
